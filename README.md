@@ -6,6 +6,17 @@ https://github.com/plataformatec/simple_form
 ---
 
 ```
+gem 'simple_form'
+bundle install
+rails g simple_form:install
+rails g simple_form:install --bootstrap
+rails g simple_form:install --foundation
+
+```
+
+
+```html
+
 
 ```
 
