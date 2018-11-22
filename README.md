@@ -1,5 +1,15 @@
 form
-===
+---
+.js
+https://github.com/jquery-form/form
+
+```js
+```
+
+```
+```
+
+---
 ### simple form 
 https://github.com/plataformatec/simple_form
 
@@ -16,14 +26,8 @@ rails g simple_form:install --foundation
 
 
 ```html
-
-
 ```
 
 ```ruby
-
-
 ```
-
-
 
