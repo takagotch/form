@@ -5,6 +5,18 @@ form
 https://github.com/jquery-form/form
 
 ```js
+// test/test.js
+
+var arrayCount = function(arr, key) {
+  var count = 0;
+  for (var i = 0; i < arr.length; i++) {
+    if (arr[i].name === key) {
+      count++;
+    }
+  }
+  return count;
+};
+
 
 ```
 
